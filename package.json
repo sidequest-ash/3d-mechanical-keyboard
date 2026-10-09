@@ -1,0 +1,20 @@
+{
+  "name": "3d-mechanical-keyboard",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8003",
+    "build": "next build",
+    "start": "next start -p 8003"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "geist": "^1.7.2",
+    "gsap": "^3.15.0",
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.186.1"
+  }
+}
